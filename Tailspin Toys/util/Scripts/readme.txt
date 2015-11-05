@@ -1,1 +1,0 @@
-This directory needs to go into C:\Scripts.
