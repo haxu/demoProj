@@ -1,0 +1,7 @@
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\bin\Debug\FabrikamFiber.Web.UITests.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\bin\Debug\FabrikamFiber.Web.UITests.pdb
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\obj\Debug\FabrikamFiber.Web.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\obj\Debug\FabrikamFiber.Web.UITests.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Dev\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\obj\Debug\FabrikamFiber.Web.UITests.pdb

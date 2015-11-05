@@ -1,0 +1,6 @@
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\Brian\Source\Workspaces\FabrikamFiber\Main\FabrikamFiber.CallCenter\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
